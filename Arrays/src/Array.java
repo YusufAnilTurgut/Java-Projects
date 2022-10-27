@@ -12,7 +12,7 @@ public class Array {
 		{
 			System.out.printf("%5d%8d%n",counter,array[counter]);
 		}
-		System.out.printf("%s%8s Reverse%n", "Index", "Value");
+		System.out.printf("%s%8s Reversed%n", "Index", "Value");
 		for(int counter = 0; counter < len;counter++)
 		{
 			temp = array[counter];
